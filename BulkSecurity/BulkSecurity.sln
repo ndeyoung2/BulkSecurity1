@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSecurity", "BulkSecurity.csproj", "{4A2ADF41-8982-490A-B863-F5B01250944B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSecurity", "BulkSecurity\BulkSecurity.csproj", "{FCE04843-A7F0-40EF-9505-5F3748A52274}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4A2ADF41-8982-490A-B863-F5B01250944B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A2ADF41-8982-490A-B863-F5B01250944B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A2ADF41-8982-490A-B863-F5B01250944B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A2ADF41-8982-490A-B863-F5B01250944B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE04843-A7F0-40EF-9505-5F3748A52274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE04843-A7F0-40EF-9505-5F3748A52274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE04843-A7F0-40EF-9505-5F3748A52274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE04843-A7F0-40EF-9505-5F3748A52274}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7151CFC2-C1EA-430A-AF8A-238D96C1E7A5}
+		SolutionGuid = {3198B758-FBDB-434D-8C5A-5BE4E3BA572A}
 	EndGlobalSection
 EndGlobal
