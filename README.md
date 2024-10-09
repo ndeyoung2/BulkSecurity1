@@ -1,1 +1,1 @@
-An Xrm ToolBox tool for bulk updating Security Roles in Micorosft Power Apps.
+An Xrm ToolBox tool for bulk updating security roles in Micorosft Power Apps.
